@@ -42,4 +42,4 @@ def main():
             break
         else:
             print("Invalid choice! Try again.")
-main
+main()
